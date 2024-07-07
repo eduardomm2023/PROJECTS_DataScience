@@ -14,6 +14,7 @@
 # - Google COLAB
 # El informe final lo he generado tanto en PDF como en HTML.
 # Espero vuestros feedbacks y poder seguir mejorando paso a paso.
+# Muchas gracias a todos.
 ![](sleep_analysis.png)
 <p><a target="_blank" href="01_Analisis_de_Sleep_Health_con_Pandas_e_informe_final - Colab.pdf"> ANALISIS PROYECTO 01.</a></p>
 <br></br>
