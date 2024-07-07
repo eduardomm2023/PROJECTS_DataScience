@@ -5,6 +5,15 @@
 <a href="mailto:loquelojonove1975@gmail.com" target="_blank" title="Email" rel="noopener"><img src="consejos.jfif" title="Email"></i></a>
 
 # PROYECTO 01
+# Este es el 1er Proyecto de Análisis de Datos ( sin contar el del Trabajo final de Máster) que he realizado.
+# En los sucesivos proyectos iré incluyendo más herramientas, librerías, procesos y procedimientos, hasta llegar a la elaboración completa y pormenorizada de un Análisis junto con el Modelo de Machine Learning para su predicción, además de otros aspectos.
+
+# Análisis del dataset "Sleep Health and lifestyle".
+# Para la elaboración de este análisis he usado:
+# - PANDAS y
+# - Google COLAB
+# El informe final lo he generado tanto en PDF como en HTML.
+# Espero vuestros feedbacks y poder seguir mejorando paso a paso.
 ![](sleep_analysis.png)
 <p><a target="_blank" href="01_Analisis_de_Sleep_Health_con_Pandas_e_informe_final - Colab.pdf"> ANALISIS PROYECTO 01.</a></p>
 <br></br>
