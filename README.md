@@ -1,6 +1,6 @@
 # DataScience
 ![](datascience5.jpg)
-# Este repositorio va a ser un lugar donde recogeré, todos aquellos Proyectos que vaya haciendo y estén relacionados con el Análisis de Datos, comenzando por lo más sencillo para terminar por proyctos más complicados y sofisticados.
+# Aquí voy a ir compartiendo los Proyectos que vaya haciendo y, estén relacionados con el Análisis de Datos, comenzando por lo más sencillo para terminar por proyectos más complicados y sofisticados.
 # TODOS los consejos, sugerencias, anotaciones, indicaciones, críticas (siempre que sean CONSTRUCTIVAS), comentarios, etc son y serán BIENVENIDOS.
 <a href="mailto:loquelojonove1975@gmail.com" target="_blank" title="Email" rel="noopener"><img src="consejos.jfif" title="Email"></i></a>
 
