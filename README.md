@@ -3,7 +3,7 @@
 # Aquí voy a ir compartiendo los Proyectos que vaya haciendo y, estén relacionados con el Análisis de Datos, comenzando por lo más sencillo para terminar por proyectos más complicados y sofisticados.
 # TODOS los consejos, sugerencias, anotaciones, indicaciones, críticas (siempre que sean CONSTRUCTIVAS), comentarios, etc son y serán BIENVENIDOS.
 <a href="mailto:loquelojonove1975@gmail.com" target="_blank" title="Email" rel="noopener"><img src="consejos.jfif" title="Email"></i></a>
-
+<br></br>
 # PROYECTO 01 "Sleep Health and lifestyle".
 # Este es el 1er Proyecto de Análisis de Datos ( sin contar el del Trabajo final de Máster) que he realizado.
 # En los sucesivos proyectos iré incluyendo más herramientas, librerías, procesos y procedimientos, hasta llegar a la elaboración completa y pormenorizada de un Análisis junto con el Modelo de Machine Learning para su predicción, además de otros aspectos.
