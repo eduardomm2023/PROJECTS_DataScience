@@ -35,6 +35,6 @@
 # - Google COLAB
 # El informe final lo he generado tanto en PDF como en HTML.
 # Muchas gracias a todos.
-![](sleep_analysis.png)
-<p><a target="_blank" href="01_Analisis_de_Sleep_Health_con_Pandas_e_informe_final - Colab.pdf"> ANALISIS PROYECTO 01.</a></p>
+![](Customer-Churn.png)
+<p><a target="_blank" href="02_Analisis_de_Sleep_Health_con_Pandas_e_informe_final - Colab.pdf"> PRUEBA TÉCNICA DE DELOITTE: KPI Churn rate. PROYECTO 02.</a></p>
 <br></br>
