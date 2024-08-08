@@ -19,3 +19,22 @@
 <p><a target="_blank" href="01_Analisis_de_Sleep_Health_con_Pandas_e_informe_final - Colab.pdf"> ANALISIS PROYECTO 01.</a></p>
 <br></br>
 
+
+
+
+# PROYECTO 02 "PRUEBA TÉCNICA DE DELOITTE: KPI Churn rate".
+# Este es el RESULTADO de la prueba técnica (24h de tiempo límite) que tuve que hacer en el proceso de selección de Deloitte, para el puesto de Data Science.
+# Debido al poco tiempo que tuve para la realización de la misma, ya que la tuve que hacer mientras estaba trabajando, el resultado es mejorable pero, estoy contento y satsfecho del resultado final que obtuve.Espero vuestros feedbacks y poder seguir mejorando paso a paso.
+# En los sucesivos proyectos iré incluyendo más herramientas, librerías, procesos y procedimientos, hasta llegar a la elaboración completa y pormenorizada de un Análisis junto con el Modelo de Machine Learning para su predicción, además de otros aspectos.
+
+# Análisis del dataset "AbandonoEmpleados.csv".
+# Para la elaboración de este análisis he usado:
+# - PANDAS 
+# - Matplotlib
+# - Scikit-learn y
+# - Google COLAB
+# El informe final lo he generado tanto en PDF como en HTML.
+# Muchas gracias a todos.
+![](sleep_analysis.png)
+<p><a target="_blank" href="01_Analisis_de_Sleep_Health_con_Pandas_e_informe_final - Colab.pdf"> ANALISIS PROYECTO 01.</a></p>
+<br></br>
