@@ -36,5 +36,5 @@
 # El informe final lo he generado tanto en PDF como en HTML.
 # Muchas gracias a todos.
 ![](Customer-Churn.png)
-<p><a target="_blank" href="PDF_KPI_churn_EMartinez_Deloitte(correccion).pdf"> PRUEBA TÉCNICA DE DELOITTE: KPI Churn rate. PROYECTO 02.</a></p>
+<p><a target="_blank" href="02_PDF_KPI_churn_EMartinez_Deloitte(correccion).pdf"> PRUEBA TÉCNICA DE DELOITTE: KPI Churn rate. PROYECTO 02.</a></p>
 <br></br>
