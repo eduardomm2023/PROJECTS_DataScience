@@ -24,7 +24,7 @@
 <br></br>
 # PROYECTO 02 "PRUEBA TÉCNICA DE DELOITTE: KPI Churn rate".
 # Este es el RESULTADO de la prueba técnica (24h de tiempo límite) que tuve que hacer en el proceso de selección de Deloitte, para el puesto de Data Science.
-# Debido al poco tiempo que tuve para la realización de la misma, ya que la tuve que hacer mientras estaba trabajando, el resultado es mejorable pero, estoy contento y satsfecho del resultado final que obtuve.Espero vuestros feedbacks y poder seguir mejorando paso a paso.
+# Debido al poco tiempo que tuve para la realización de la misma, ya que la tuve que hacer mientras estaba trabajando, el resultado es mejorable pero, estoy contento y satisfecho del resultado final que obtuve. Espero vuestros feedbacks y poder seguir mejorando paso a paso.
 # En los sucesivos proyectos iré incluyendo más herramientas, librerías, procesos y procedimientos, hasta llegar a la elaboración completa y pormenorizada de un Análisis junto con el Modelo de Machine Learning para su predicción, además de otros aspectos.
 
 # Análisis del dataset "AbandonoEmpleados.csv".
