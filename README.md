@@ -1,5 +1,8 @@
 # DataScience
-![](datascience5.jpg)
+<p align = "center">
+  <img src = "datascience5.jpg">
+</p>
+
 # Aquí voy a ir compartiendo los Proyectos que vaya haciendo y, estén relacionados con el Análisis de Datos, comenzando por lo más sencillo para terminar por proyectos más complicados y sofisticados.
 # TODOS los consejos, sugerencias, anotaciones, indicaciones, críticas (siempre que sean CONSTRUCTIVAS), comentarios, etc son y serán BIENVENIDOS.
 <p align = "center">
