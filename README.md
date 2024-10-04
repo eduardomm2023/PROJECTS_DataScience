@@ -51,4 +51,4 @@
 # El informe final lo he generado en formato csv.
 # Muchas gracias a todos.
 ![](FIFA.jpg)
-<p><a target="_blank" href="02_PDF_KPI_churn_EMartinez_Deloitte(correccion).pdf"> PRUEBA TÉCNICA DE DELOITTE: KPI Churn rate. PROYECTO 02.</a></p>
+<p><a target="_blank" href="01MUNDIALES_FUTBOL_CON_SELENIUM.ipynb"> ANÁLISIS DE MUNDIALES DE FÚTBOL REALIZADO CON SELENIUM. PROYECTO 03.</a></p>
