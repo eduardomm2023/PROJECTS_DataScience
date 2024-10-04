@@ -44,7 +44,7 @@
 # En los sucesivos proyectos iré incluyendo más herramientas, librerías, procesos y procedimientos, hasta llegar a la elaboración completa y pormenorizada de un Análisis junto con el Modelo de Machine Learning para su predicción, además de otros aspectos.
 # Ya estoy más cerca de este objetivo. 
 
-# Análisis (webscraping) para la extracicón de los datos de la web dataset "(https://en.wikipedia.org/wiki/{año_mundial}_FIFA_World_Cup)".
+# Análisis (webscraping) para la extracicón de los datos de la web dataset "(https://en.wikipedia.org/wiki/FIFA_World_Cup)".
 # Para la elaboración de este análisis he usado:
 # - SELENIUM y
 # - Visual Studio Code
