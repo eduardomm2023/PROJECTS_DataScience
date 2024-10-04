@@ -39,7 +39,7 @@
 <p><a target="_blank" href="02_PDF_KPI_churn_EMartinez_Deloitte(correccion).pdf"> PRUEBA TÉCNICA DE DELOITTE: KPI Churn rate. PROYECTO 02.</a></p>
 <br></br>
 
-# PROYECTO 03 "WEBSCRAPING CON SELENIUM: KPI MUNDIALES DE FÚTBOL".
+# PROYECTO 03 "WEBSCRAPING CON SELENIUM: ANÁLISIS MUNDIALES DE FÚTBOL".
 # Este es el 2º Proyecto de Análisis de Datos que he realizado en el que he incluido el trabajo de Webcscraping, para la búsqueda de los datos.
 # En los sucesivos proyectos iré incluyendo más herramientas, librerías, procesos y procedimientos, hasta llegar a la elaboración completa y pormenorizada de un Análisis junto con el Modelo de Machine Learning para su predicción, además de otros aspectos.
 # Ya estoy más cerca de este objetivo. 
