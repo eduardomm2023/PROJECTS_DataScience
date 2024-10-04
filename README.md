@@ -50,5 +50,5 @@
 # - Visual Studio Code
 # El informe final lo he generado en formato csv.
 # Muchas gracias a todos.
-![](.png)
+![](FIFA.jpg)
 <p><a target="_blank" href="02_PDF_KPI_churn_EMartinez_Deloitte(correccion).pdf"> PRUEBA TÉCNICA DE DELOITTE: KPI Churn rate. PROYECTO 02.</a></p>
