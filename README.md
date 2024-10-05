@@ -6,7 +6,7 @@
 # Aquí voy a ir compartiendo los Proyectos que vaya haciendo y, estén relacionados con el Análisis de Datos, comenzando por lo más sencillo para terminar por proyectos más complicados y sofisticados.
 # TODOS los consejos, sugerencias, anotaciones, indicaciones, críticas (siempre que sean CONSTRUCTIVAS), comentarios, etc son y serán BIENVENIDOS.
 <p align = "center">
-  <a href="mailto:loquelojonove1975@gmail.com" target="_blank" title="Email" rel="noopener"><img src="consejos.jfif" title="Email"></i></a>
+  <a href="mailto:loquelojonove1975@gmail.com" target="_blank" rel = "noopener noreferrer" title="Email" rel="noopener"><img src="consejos.jfif" title="Email"></i></a>
 </p>
 <br></br>
 
@@ -24,7 +24,7 @@
 <p align = "center">
   <img src = "sleep_analysis.png">
 </p>
-<p><a target="_blank" href="01_Analisis_de_Sleep_Health_con_Pandas_e_informe_final - Colab.pdf"> ANALISIS PROYECTO 01.</a></p>
+<p><a target="_blank" rel = "noopener noreferrer" href="01_Analisis_de_Sleep_Health_con_Pandas_e_informe_final - Colab.pdf"> ANALISIS PROYECTO 01.</a></p>
 <br></br>
 
 
@@ -44,7 +44,7 @@
 # El informe final lo he generado tanto en PDF como en HTML.
 # Muchas gracias a todos.
 ![](Customer-Churn.png)
-<p><a target="_blank" href="02_PDF_KPI_churn_EMartinez_Deloitte(correccion).pdf"> PRUEBA TÉCNICA DE DELOITTE: KPI Churn rate. PROYECTO 02.</a></p>
+<p><a target="_blank" rel = "noopener noreferrer" href="02_PDF_KPI_churn_EMartinez_Deloitte(correccion).pdf"> PRUEBA TÉCNICA DE DELOITTE: KPI Churn rate. PROYECTO 02.</a></p>
 <br></br>
 
 # <i>PROYECTO 03 "WEBSCRAPING CON SELENIUM: ANÁLISIS MUNDIALES DE FÚTBOL".</i>
@@ -61,4 +61,4 @@
 <p align = "center">
   <img src = "FIFA.jpg">
 </p>
-<p><a target="_blank" href="01MUNDIALES_FUTBOL_CON_SELENIUM.ipynb"> ANÁLISIS DE MUNDIALES DE FÚTBOL REALIZADO CON SELENIUM. PROYECTO 03.</a></p>
+<p><a target="_blank" rel = "noopener noreferrer" href="01MUNDIALES_FUTBOL_CON_SELENIUM.ipynb"> ANÁLISIS DE MUNDIALES DE FÚTBOL REALIZADO CON SELENIUM. PROYECTO 03.</a></p>
