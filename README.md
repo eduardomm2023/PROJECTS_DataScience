@@ -1,4 +1,4 @@
-# DataScienc
+# DataScience
 <p align = "center">
   <img src = "datascience5.jpg">
 </p>
